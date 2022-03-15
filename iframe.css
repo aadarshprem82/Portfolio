@@ -1,0 +1,18 @@
+img{
+    width:466px;
+    height:666px;
+}
+body{
+    background-color: lightcoral;
+}
+frame{
+    border-color: lightcoral;
+    border-width: 5px;
+    border-radius:30px;
+}
+p{
+    color: antiquewhite;
+    font-size: 80px;
+    transform: translateY(-45px);
+    font-weight: bolder;
+}
